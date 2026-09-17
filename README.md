@@ -1,33 +1,33 @@
 # Hi, I'm Sharjeel Ali
 
-Computer Systems Engineering graduate currently pursuing a Master's in Information Technology.
+Master's student in Information Technology with a Computer Systems Engineering background.
 
-I work as an IT Officer at The City School, with interests in IT support, systems administration, networking, and practical technology solutions.
+I am focused on systems, networking, automation, and practical IT solutions. My GitHub is being built as a professional portfolio around IT operations, infrastructure, and applied software concepts.
 
-## Skills
+## Technical Interests
 
-- IT support and troubleshooting
-- Windows installation, configuration, and maintenance
-- Hardware and software support
-- Basic networking, IP addressing, DNS, and DHCP
-- System administration fundamentals
-- User support and technical documentation
-- GitHub and version control basics
+- Systems administration
+- Network monitoring and troubleshooting
+- IT operations workflows
+- Automation for support tasks
+- Database-backed dashboards
+- Clean technical documentation
 
-## Current Focus
+## Featured Projects
 
-- Information Technology
-- IT support and troubleshooting
-- Systems and network administration
-- Building a stronger GitHub portfolio
+### IT Asset Management System
+A project concept for tracking workplace devices, assignments, maintenance logs, and support status.
 
-## Repositories
+Repository: [it-asset-management-system](https://github.com/sharjee14/it-asset-management-system)
 
-- [it-support-notes](https://github.com/sharjee14/it-support-notes): notes and examples for common IT support tasks
-- [networking-basics](https://github.com/sharjee14/networking-basics): networking concepts, commands, and practice labs
+### Network Monitoring Dashboard
+A project concept for monitoring device availability, uptime status, response times, and alert history.
 
-## Goals
+Repository: [network-monitoring-dashboard](https://github.com/sharjee14/network-monitoring-dashboard)
 
-- Share academic and professional IT projects
-- Practice clean documentation
-- Build practical projects that show real technical skills
+## Current Goals
+
+- Build a stronger IT and systems-focused portfolio
+- Improve project documentation and GitHub workflow
+- Practice real-world project planning and implementation
+- Convert project concepts into working applications over time
